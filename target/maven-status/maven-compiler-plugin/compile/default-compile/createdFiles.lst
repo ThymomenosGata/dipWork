@@ -1,0 +1,12 @@
+MainClass.class
+models/Professor.class
+models/User.class
+models/Group.class
+models/News.class
+Post.class
+DataBaseConnection.class
+Get.class
+Update.class
+models/Result.class
+Delete.class
+models/Students.class
